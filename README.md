@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @GladysJoseph
-- 👀 I’m interested in Data Science, My goal for 2023 is to complete the 100-day challenge.
-- 🌱 I have a Master in Business Concentration in Business Intelligence Big Data Analytics.  A Second Master's in Applied Sciences _Computer Science Big Data Analytics, and a Certificate from MIT in Applied Science
-- 💞️ I’m looking to collaborate with others whose interest is in Data Science ...
-- 📫 How to reach me  ...
+- 👋 Hello, I am Gladys Joseph! I welcome you to my GitHub account and hope to get your feedback after venturing through it.
+- 👀 My interest is in Data Science and I dream of easily expanding in this field like prominent like other well-known data experts.
+- 🌱 I have an MBA in Business Intelligence Data Analytics and a Master of Science in Computer Science with a concentration in Big Data. I have completed certifications with MIT Great Learning; one in Applied Sciences and the second in Generative AI.  
+- 💞️ I’m looking to collaborate with others interested in Data Science who are willing to learn and grow in this field.
+- 📫 please feel free to reach me on Linkedin: www.linkedin.com/in/gladys-joseph-mba-msc-a6b694161 , email: 954gladys@gmil.com or outlook: gransoiree@hotmail.com.
+
+
 
 <!---
 GladysJoseph/GladysJoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
